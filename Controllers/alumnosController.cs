@@ -3,14 +3,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-namespace apiForge{
+namespace ApiForge{
 
     [Route("api/[controller]")]
     [ApiController]
-    public class alumnosController : ControllerBase
+    public class AlumnosController : ControllerBase
     {
-        private iserviceAlumnos serviceAlumnos;
-        public alumnosController(iserviceAlumnos serviceAlumnos)
+        private IServiceAlumnos serviceAlumnos;
+        public AlumnosController(IServiceAlumnos serviceAlumnos)
         {
             this.serviceAlumnos = serviceAlumnos;
         }

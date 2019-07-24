@@ -3,12 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 
 
-namespace apiForge{
-public class serviceAlumnos: iserviceAlumnos{
+namespace ApiForge{
+public class ServiceAlumnos: IServiceAlumnos{
 
 
           private  static List<Alumnos> list;
-        public serviceAlumnos()
+        public ServiceAlumnos()
         {
             list = new List<Alumnos>();
             list.Add(new Alumnos()
@@ -17,7 +17,7 @@ public class serviceAlumnos: iserviceAlumnos{
                 apellido = "niz",
                 especialidad = "IT",
                 edad = 18,
-                DNI = "43798787",
+                dni = "43798787",
                 ID = 1
             });
         

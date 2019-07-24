@@ -1,6 +1,6 @@
 using System;
 
-namespace apiForge{
+namespace ApiForge{
 public class Alumnos
 {
 
@@ -22,7 +22,7 @@ public class Alumnos
         get; set;
     }
 
-    public string DNI
+    public string dni
     {
         get; set;
     }

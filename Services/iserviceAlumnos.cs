@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using System.Linq;
-namespace apiForge{
-    public interface iserviceAlumnos
+namespace ApiForge{
+    public interface IServiceAlumnos
     {
         List<Alumnos> GetAll();
         Alumnos Get(int id);

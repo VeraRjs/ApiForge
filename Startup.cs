@@ -11,7 +11,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 
-namespace apiForge{
+namespace ApiForge{
 
     public class Startup
     {
@@ -27,7 +27,7 @@ namespace apiForge{
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
 
-            services.AddSingleton<iserviceAlumnos, serviceAlumnos>();
+            services.AddSingleton<IServiceAlumnos, ServiceAlumnos>();
 
         }
 
