@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\Vera Rojas Fernando\apiForge\bin\Debug\netcoreapp2.2\apiForge.deps.json
+C:\Users\Administrator\Desktop\Vera Rojas Fernando\apiForge\bin\Debug\netcoreapp2.2\apiForge.runtimeconfig.json
+C:\Users\Administrator\Desktop\Vera Rojas Fernando\apiForge\bin\Debug\netcoreapp2.2\apiForge.runtimeconfig.dev.json
+c:\Users\Administrator\Desktop\Vera Rojas Fernando\apiForge\bin\Debug\netcoreapp2.2\apiForge.dll
+c:\Users\Administrator\Desktop\Vera Rojas Fernando\apiForge\bin\Debug\netcoreapp2.2\apiForge.pdb
+c:\Users\Administrator\Desktop\Vera Rojas Fernando\apiForge\obj\Debug\netcoreapp2.2\apiForge.csprojAssemblyReference.cache
+c:\Users\Administrator\Desktop\Vera Rojas Fernando\apiForge\obj\Debug\netcoreapp2.2\apiForge.csproj.CoreCompileInputs.cache
+c:\Users\Administrator\Desktop\Vera Rojas Fernando\apiForge\obj\Debug\netcoreapp2.2\apiForge.RazorAssemblyInfo.cache
+c:\Users\Administrator\Desktop\Vera Rojas Fernando\apiForge\obj\Debug\netcoreapp2.2\apiForge.RazorAssemblyInfo.cs
+c:\Users\Administrator\Desktop\Vera Rojas Fernando\apiForge\obj\Debug\netcoreapp2.2\apiForge.AssemblyInfoInputs.cache
+c:\Users\Administrator\Desktop\Vera Rojas Fernando\apiForge\obj\Debug\netcoreapp2.2\apiForge.AssemblyInfo.cs
+c:\Users\Administrator\Desktop\Vera Rojas Fernando\apiForge\obj\Debug\netcoreapp2.2\apiForge.RazorTargetAssemblyInfo.cache
+c:\Users\Administrator\Desktop\Vera Rojas Fernando\apiForge\obj\Debug\netcoreapp2.2\apiForge.dll
+c:\Users\Administrator\Desktop\Vera Rojas Fernando\apiForge\obj\Debug\netcoreapp2.2\apiForge.pdb
